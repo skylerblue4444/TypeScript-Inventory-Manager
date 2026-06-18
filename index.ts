@@ -1,0 +1,1 @@
+console.log('Starting TypeScript-Inventory-Manager service...');\n
